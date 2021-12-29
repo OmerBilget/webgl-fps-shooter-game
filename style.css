@@ -1,0 +1,11 @@
+
+#my_canvas{
+    cursor:none;
+}
+
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden;
+    background-color: black;
+}
