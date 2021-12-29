@@ -1,5 +1,5 @@
 # webgl-fps-shooter-game
-made without using three.js library 
+made without using three.js library     
 3 different eney types  
 3 different weapons 
 l pointer lock   
