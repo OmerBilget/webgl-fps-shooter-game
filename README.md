@@ -1,5 +1,5 @@
 ## Webgl 3d shooter game
-I made this with webgl and js without three.js library .
+I made this with webgl and js without three.js library .  
 link to play:https://omerbilget.github.io/webgl-fps-shooter-game/
 ### Features
 
