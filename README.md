@@ -9,7 +9,7 @@ link to play:
 - Compatible with all major browsers (chrome,edge,firefox);
 - can run offline;
 
-###controls
+### controls
 - W,A,S,D move character
 - Q,E change weapons
 - mouse drag camera look
