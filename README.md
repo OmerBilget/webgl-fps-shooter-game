@@ -18,7 +18,6 @@ link to play:
 - L infinite mouse movement 
 
 ### Screenshots
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](screenshots/s1.jpg)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
