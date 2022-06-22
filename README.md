@@ -1,4 +1,4 @@
-##Webgl 3d shooter game
+## Webgl 3d shooter game
 I made this with webgl and js without three.js library .
 link to play:
 ### Features
